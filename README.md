@@ -6,7 +6,9 @@
 
 ## Prepared By
 
-Hussien Ahmed Hussien
+Hussien Ahmed Hussien Hussien 
+Al-Abdi Mustafa Majid Mahoud
+Tariq Mahmoud Hajji Al-Zaidi
 
 ## Project Overview
 
