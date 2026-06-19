@@ -94,7 +94,7 @@ This result shows that the current `5000`-step training run is still an early-st
 
 ## Learning Curve
 
-![Learning curve](screenshot's/learning_curve.png)
+![Learning curve] (screenshot's/learning_curve.png)
 
 ## Notes
 
