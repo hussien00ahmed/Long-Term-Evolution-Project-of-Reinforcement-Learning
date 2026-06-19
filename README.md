@@ -14,6 +14,8 @@ Al-Abdi Mustafa Majid Mahoud
 <p algn="left">
 Tariq Mahmoud Hajji Al-Zaidi
 </p>
+
+
 ## Project Overview
 
 This repository contains a minimal reinforcement learning project built with `RLLTE`. The current experiment trains a `DrQv2` agent on the DeepMind Control Suite task `cartpole_balance` using pixel observations, evaluates the saved checkpoint, and generates a learning-curve figure from the run logs.
